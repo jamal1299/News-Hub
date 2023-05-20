@@ -5,7 +5,7 @@ import '@fortawesome/fontawesome-free/css/all.css';
 
   return (
     <>
-    <Navbar onSubmit={searchValue} />
+    <Navbar  />
     </>
  
   );
