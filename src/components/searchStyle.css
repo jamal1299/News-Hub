@@ -1,0 +1,6 @@
+.searchSuggestions{
+    position: absolute;
+    right: 0;
+    z-index: 10;
+    background-color: #fff;
+}
