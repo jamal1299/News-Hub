@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom';
-import { useState,useEffect} from 'react';
+import { useContext } from 'react';
+import { SearchContext } from './ContextForSearch';
+
 
 
 const NavStyle = {
@@ -8,17 +10,14 @@ const NavStyle = {
 }
 const Navbar = (props) => {
    
-    const [search,setSearch] = useState("");
+      const { searchValue, updateSearchValue } = useContext(SearchContext);
+
+  const handleInputChange = (e) => {
+    updateSearchValue(e.target.value);
+  };
+
    
-    const getSearch = (e)=>{
-
-        setSearch(e.target.value);
-
-    }
-
-    useEffect(()=>{
-        console.log(search);
-    },[search]);
+   
 
     return (
         <>
@@ -42,14 +41,23 @@ const Navbar = (props) => {
                             <input type="text"
                                 className="form-control"
                                 placeholder="Keyword"
-                                onChange={getSearch}
-                                value={search}
+                            value={searchValue}
+                            onChange={handleInputChange}
+                               
                                 
                             />
-                            <div className="input-group-append">
-                                <button className="input-group-text text-secondary"><i
-                                    className="fa fa-search"></i></button>
+                            <Link to="/search-page" className='input-group-append' >
+                            <div className=" input-group-text text-secondary">
+                                <i
+                                    className="fa fa-search"></i>
                             </div>
+                            </Link>
+                            
+                           
+                        
+                         
+                          
+                            
                         </div>
                     </div>
                 </nav>
