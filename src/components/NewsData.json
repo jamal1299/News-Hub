@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "Image": "news-700x435-1.jpg",
+        "Title": "Technology",
+        "Date": "January 01, 2022",
+        "Description": "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed",
+        "longDescription":  "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed"  ,
+        "Slider": "Yes",
+        "Category": "Kids"
+    },
+    {
+        "id": 2,
+        "Image": "news-700x435-2.jpg",
+        "Title": "Technology",
+        "Date": "January 01, 2022",
+        "Description": "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed",
+        "Slider": "Yes",
+        "Category": "Gym"
+    },
+    {
+        "id": 3,
+        "Image": "cat-500x80-1.jpg",
+        "Title": "Business",
+        "Date": "January 01, 2022",
+        "Description": "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed",
+        "Slider": "No",
+        "Category": "All"
+    },
+    {
+        "id": 4,
+        "Image": "cat-500x80-2.jpg",
+        "Title": "Technology",
+        "Date": "January 01, 2022",
+        "Description": "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed",
+        "Slider": "No",
+        "Category": "All"
+    },
+    {
+        "id": 5,
+        "Image": "cat-500x80-3.jpg",
+        "Title": "Entertainment",
+        "Date": "January 01, 2022",
+        "Description": "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed",
+        "Slider": "No",
+        "Category": "All"
+    },
+    {
+        "id": 6,
+        "Image": "cat-500x80-4.jpg",
+        "Title": "Sports",
+        "Date": "January 01, 2022",
+        "Description": "Sanctus amet sed amet ipsum lorem. Dolores et erat et elitr sea sed",
+        "Slider": "No",
+        "Category": "All"
+    },
+    {
+        "id": 7,
+        "Image": "news-300x300-1.jpg",
+        "Title": "Sports",
+        "Date": "Jan 01, 2022",
+        "Description": "Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Featured"
+    },
+    {
+        "id": 8,
+        "Image": "news-300x300-2.jpg",
+        "Title": "Technology",
+        "Date": "Jan 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Featured"
+    },
+    {
+        "id": 9,
+        "Image": "news-300x300-3.jpg",
+        "Title": "Sports",
+        "Date": "Jan 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Featured"
+    },
+    {
+        "id": 10,
+        "Image": "news-300x300-4.jpg",
+        "Title": "Technology",
+        "Date": "Jan 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Featured"
+    },
+    {
+        "id": 11,
+        "Image": "news-300x300-5.jpg",
+        "Title": "Technology",
+        "Date": "Jan 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Featured"
+    },
+    {
+        "id": 12,
+        "Image": "news-500x280-1.jpg",
+        "Title": "Business",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Business"
+    },
+    {
+        "id": 14,
+        "Image": "news-500x280-2.jpg",
+        "Title": "Business",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Business"
+    },
+    {
+        "id": 13,
+        "Image": "news-500x280-3.jpg",
+        "Title": "Business",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Business"
+    },
+    {
+        "id": 15,
+        "Image": "news-500x280-1.jpg",
+        "Title": "Sports",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Sports"
+    },
+    {
+        "id": 16,
+        "Image": "news-500x280-2.jpg",
+        "Title": "Sports",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Sports"
+    },
+    {
+        "id": 17,
+        "Image": "news-500x280-3.jpg",
+        "Title": "Sports",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Sports"
+    },
+    {
+        "id": 18,
+        "Image": "news-500x280-1.jpg",
+        "Title": "Entertainment",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Entertainment"
+    },
+    {
+        "id": 19,
+        "Image": "news-500x280-2.jpg",
+        "Title": "Entertainment",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Entertainment"
+    },
+    {
+        "id": 20,
+        "Image": "news-500x280-3.jpg",
+        "Title": "Entertainment",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Entertainment"
+    },
+    {
+        "id": 21,
+        "Image": "news-500x280-1.jpg",
+        "Title": "Technology",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Technology"
+    },
+    {
+        "id": 22,
+        "Image": "news-500x280-2.jpg",
+        "Title": "Technology",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Technology"
+    },
+    {
+        "id": 23,
+        "Image": "news-500x280-3.jpg",
+        "Title": "Technology",
+        "Date": "January 01, 2022",
+        "Description": " Sanctus amet sed ipsum lorem",
+        "Slider": "No",
+        "Category": "Technology"
+    }
+]
