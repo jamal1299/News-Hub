@@ -1,0 +1,118 @@
+.visually-hidden{
+  display: none;
+}
+.carousel-indicators{
+  display: none;
+}
+.main-slider {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+}
+.main-slider::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.4);
+  background-blend-mode: darken;
+
+}
+.main-slider img{
+  width: 100%;
+  height: 100%;
+}
+
+.secondcard{
+  width: 260px;
+  height: 300px;
+}
+
+.newlay2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+.multi-slider{
+  display: flex;
+  gap: 1;
+  
+}
+.react-multi-carousel-item
+{
+  margin-right: 10px;
+}
+.fb-bg{
+  background: #39569E;
+}
+.tw-bg{
+  background: #52AAF4;
+}
+.ld-bg{
+  background: #0185AE;
+}
+.ig-bg{
+  background: #C8359D;
+}
+.yt-bg{
+  background: #DC472E;
+}
+.vm-bg{
+  background: #1AB7EA;
+}
+.inpo{
+  width: 100%;
+}
+.footer-icons{
+  width: 38px; 
+  height: 38px;
+}
+.btn-header{
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-btn-box{
+  width: 20%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.arrow-btn-box span{
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+  text-align: center;
+  line-height: 27px;
+  cursor: pointer;
+  color: #dee2e6;
+  background: transparent;
+  border: 1px solid #dee2e6;
+  font-size: 16px;
+  transition: .3s;
+  
+}
+
+.arrow-btn-box span:hover{
+    color: #ffffff;
+    background: #ED1C24;
+    border-color: #ED1C24;
+}
+.img-detail-news{
+  width: 400px;
+  height: 350px
+}
+.joining{
+  color: #ED1C24;
+}
